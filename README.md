@@ -7,3 +7,7 @@ code2012_survey_total
 python code2012_survey_total.py
 
 集計してprintされます。
+
+実行環境
+--------
+Python for Windows 2.7.3 (x64) での動作を確認できています。
